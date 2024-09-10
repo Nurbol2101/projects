@@ -6,10 +6,10 @@ import os
 from send2trash import send2trash
 
 # Všechny potřebné soubory
-file_path_pok = 'O:\\Work\\Resume\\07.09.2024\\Pokojská.xlsx'
-file_path_naj = 'O:\\Work\\Resume\\07.09.2024\\Nájezdy+pokojů.xlsx'
-file_path_pok_edited = 'O:\\Work\\Resume\\07.09.2024\\\\Pokojska (edited).xlsx'
-file_path_hotova = 'O:\\Work\\Resume\\07.09.2024\\Hotova reportka.xlsx'
+file_path_pok = 'O:\\Work\\Pokojská.xlsx'
+file_path_naj = 'O:\\Work\\Nájezdy+pokojů.xlsx'
+file_path_pok_edited = 'O:\\Work\\Pokojska (edited).xlsx'
+file_path_hotova = 'O:\\Work\\Hotova reportka.xlsx'
 
 
 # Úprava excel souboru pokojská -> Zanechání pouze potřebných sloupců, jejích formatování + přídání filtrů
